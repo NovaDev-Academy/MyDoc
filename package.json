@@ -4,14 +4,6 @@
   "description": "MyDoc (Meu Documento) - Plataforma de Compartilhamento de Documentos",
   "main": "index.js",
   "scripts": {
-      "start": "",
-      "start-poll": "",
-      "start-docker": "",
-      "build": "",
-      "buildtest": "",
-      "buildhml": "",
-      "buildprod": "",
-      "time:server": ""
   },
   "repository": {
     "type": "git",
